@@ -1,6 +1,6 @@
-# Iris flower classification using FastAPI
+# Traditional food scanner
 
-Python Notebook: <br>
+API Provider for Machine Learning: <br>
 https://www.kaggle.com/code/venkatkrishnan/iris-data-tensorflow-neural-network
 
 Run using: <br>
