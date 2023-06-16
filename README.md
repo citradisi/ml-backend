@@ -1,7 +1,7 @@
 # Traditional food scanner
 
 API Provider for Machine Learning: <br>
-https://www.kaggle.com/code/venkatkrishnan/iris-data-tensorflow-neural-network
+The application's function is to provide an API so that it can be accessed by machine learning.
 
 Run using: <br>
 `uvicorn main:app`
